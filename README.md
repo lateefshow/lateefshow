@@ -57,8 +57,7 @@ I’m passionate about building scalable web applications, teaching STEM/Robotic
 ---
 
 ## 📊 GitHub Stats  
-
-![Lateef’s GitHub stats](https://github-readme-stats.vercel.app/api?username=lateefshow&show_icons=true&theme=radical)  
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lateefshow&layout=compact&theme=radical)  
 
 ---
